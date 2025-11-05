@@ -1,10 +1,11 @@
 # UCSB Santa Cruz Beach Image Dataset
 
 ## Overview
-This dataset consists of sequential images of **Santa Cruz Beach**, located on the **University of California, Santa Barbara (UCSB)** campus near Goleta Point. All images are captured from a fixed shoreline-facing camera angle overlooking the beach and ocean.
+This dataset consists of sequential images of **Santa Cruz Beach**, located on the **University of California, Santa Barbara (UCSB)** campus near Goleta Point. 
 
-The frames were collected using **VLC Media Player** from the publicly available **CoastSnap citizen-science timelapse** featured in the UCSB article:  
-[UC Santa Barbara Researchers Launch CoastSnap Citizen Science Initiative to Monitor Coastal Change](https://news.ucsb.edu/2024/021425/uc-santa-barbara-researchers-launch-coastsnap-citizen-science-initiative-monitor).
+All images are captured from a fixed shoreline-facing camera angle overlooking the beach and ocean.
+
+The frames were collected using **VLC Media Player** from the publicly available **CoastSnap citizen-science timelapse** featured in the UCSB article: [UC Santa Barbara Researchers Launch CoastSnap Citizen Science Initiative to Monitor Coastal Change](https://news.ucsb.edu/2024/021425/uc-santa-barbara-researchers-launch-coastsnap-citizen-science-initiative-monitor).
 
 ---
 
